@@ -1,0 +1,4 @@
+#Thu Oct 14 10:26:24 WIB 2021
+base.0=/Users/dimasadi/FlutterDevs/Project/Flutter mini project/house_properties_business/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
